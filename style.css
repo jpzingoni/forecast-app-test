@@ -17,7 +17,7 @@ body{
     background-color: #FCB332;
     height: 50%;
     position: absolute;
-    bottom: 0px;
+    bottom: 0%;
     animation-name: skybackgroundcolor;
     animation-duration: 10s;
     transition: all;
@@ -31,7 +31,7 @@ body{
     width:100%;
     height: 50%;
     position: absolute;
-    top: 0px;
+    top: 0%;
     background-color: #FCB332;
     animation-name: skybackgroundcolor;
     -webkit-animation-name: skybackgroundcolor;
