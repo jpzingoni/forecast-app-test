@@ -230,3 +230,20 @@ body{
 
     
 }
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    body {
+      width: 100vw;
+      height: 100vh;
+    }
+    .conteiner{
+        width: 100vw;
+        height: 100vh;
+    }
+    .fondo{
+        width: 100vw;
+        height: 100vh;
+        position: relative;
+    }
+  }
